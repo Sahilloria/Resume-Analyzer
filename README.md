@@ -108,19 +108,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- [shadcn/ui](https://ui.shadcn.com/) for the beautiful UI components
-- [Google Gemini](https://deepmind.google/technologies/gemini/) for the AI analysis
-- [Next.js](https://nextjs.org/) for the amazing React framework
-- All other open source libraries used in this project
-
-## 📫 Contact
-
-Akash Godbole - [@yourtwitter](https://x.com/akashgodbole_) - akash.godbole16@gmail.com
-
-Project Link: [https://github.com/AshGod16/resume_analyzer](https://github.com/AshGod16/resume_analyzer)
