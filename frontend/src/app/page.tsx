@@ -4,7 +4,7 @@ import React, { useState, ChangeEvent } from 'react';
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Textarea } from "@/components/ui/textarea";
-import { Upload, Github, Linkedin, Mail, Globe } from 'lucide-react';
+import { Upload } from 'lucide-react';
 import AnalysisDisplay from '@/components/AnalysisDisplay';
 import { Analytics } from '@vercel/analytics/next';
 import Footer from "@/components/Footer";
