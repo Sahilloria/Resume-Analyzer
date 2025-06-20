@@ -40,7 +40,7 @@ const ResumeAnalyzer = () => {
 
     // 
     try {
-      const response = await fetch('http://127.0.0.1:5000/analyze', {
+      const response = await fetch('https://resume-analyzer-kp39.onrender.com/analyze', {
         method: 'POST',
         body: formData,
       });
