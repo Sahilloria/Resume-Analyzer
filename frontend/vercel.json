@@ -1,8 +1,9 @@
 {
-  "builds": [
-    { "src": "frontend/next.config.js", "use": "@vercel/next" }
-  ],
-  "routes": [
-    { "src": "/(.*)", "dest": "/frontend" }
-  ]
+    "rewrites": [
+      {
+        "source": "/(.*)",
+        "destination": "/"
+      }
+    ]
 }
+  

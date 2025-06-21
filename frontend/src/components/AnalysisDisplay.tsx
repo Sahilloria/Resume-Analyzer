@@ -3,6 +3,7 @@ import React from 'react';
 const AnalysisDisplay = ({ analysis }: { analysis: string }) => {
   
   const formatSection = (content: string) => {
+    console.log("content", content)
     return content.split('\n').map((line, index) => {
       // Main heading (##)
       if (line.startsWith('##')) {
