@@ -6,7 +6,7 @@ A modern web application that helps job seekers analyze their resumes against jo
 
 ## ⚡ Live Demo
 
-Check out the live demo: [AI Resume Analyzer](https://resume-analyzer-blond.vercel.app/)
+Check out the live demo: [AI Resume Analyzer](https://airesume-analyzer.vercel.app/)
 
 ## ✨ Features
 
